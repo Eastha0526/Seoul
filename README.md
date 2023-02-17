@@ -32,6 +32,8 @@
   - 데이터 크롤링을 통하여 위치 데이터를 지도에 표시하기 위한 위, 경도 데이터로 변환
   - 유동인구 데이터와 킥보드 견인 데이터를 활용한 예측 모델 생성
   - RandomForest를 사용하여 각 발생할 킥보드 개수 예측(회귀)
+  ![decistion-tree](https://user-images.githubusercontent.com/110336043/219580224-50340593-e810-444a-a5dd-9ed2f12b2294.png)
+
   - RandomForest인 Tree계열의 특징인 feature importance를 확인하여 어떠한 feature가 가장 큰 요인이였는지 확인
   - folium을 활용하여 견인 킥보드 지도에 표시
   
